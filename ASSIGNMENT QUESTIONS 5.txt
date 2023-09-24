@@ -1,0 +1,106 @@
+ASSIGNMENT QUESTIONS 5
+
+ 1. What is SEO and explain the importance of SEO?
+ Ans. <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEO</title>
+ </head>
+ <body>
+    <H1>SEO</H1>
+    SEO - Search Engine Optimization is the process of improving your website as that it achieves a higher ranking in 
+          search engine SERPs.
+          <h2>Importance Of SEO</h2>
+    The Importance Of SEO it builds the higher brand credibility and authority and it improving our website to become
+     a higher rank in saerch engine optimization(SEO)
+ </body>
+ </html>
+<br>
+
+2. Create an HTML document with appropriate title> and meta> tag for SEO optimization.Ensures the title
+   is descriptive and the meta description is concise?
+Ans. <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>best cafe in our city | cafe delights</title>
+    <meta name="description" content="cafe delights offers the finest cafe in agra(U.P).
+     Visit us for a delightful cafe blends.">
+</head>
+</head>
+<body>
+    <h1>SEO(HTML)</h1>
+</body>
+</html>
+
+3. What are the Benefits of Using meta tag?
+Ans. The benefits of using meta tags are that they impact how our site appears in SERPs.
+    They impact our traffic and enagagement rates,which impact our SEO and our Rankings.
+
+4. Create an HTML document that properly incorporated semantic elements like header>, article>, section>,ornav>
+   to improve SEO and document structure?
+Ans. <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>semantic html example</title>
+</head>
+<body>
+    <header>
+        <h1>welcome to cafe delights</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">about us</a></li>
+                <li><a href="#menu">menu</a></li>
+                <li><a href="#contact">contact us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <article>
+            <h2>about us</h2>
+            <p>at cafe delights, we are passionate about coffee. our journey began in 2005 when we opened our first cafe in the heart of the city.since then we have been dedicated to serving the finest coffee blends and providing a cozy amosphere for our customers.</p>
+        </article>
+    </section>
+    <section id="menu">
+        <article>
+            <h2>our menu</h2>
+            <p>explore our wide range of coffee blends  pastries and sandwiches.</p>
+        </article>
+    </section>
+    <section id="contact">
+        <article>
+            <h2>contct us</h2>
+            <p>if you have any questions or feedback don't hesitate to get in touch with us.</p>
+        </article>
+    </section>
+    <footer>
+        <p>&copy;2023 cafe delights</p>
+    </footer>
+</body>
+</html>
+
+5. Define Favicon And Give An Illustrative Example?
+Ans. A favicon is a small image, so it should be a simple image with high contrast.And it is displayed to the left 
+     of the page title in the browser tab.
+Example-  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>favicon example</title>
+    <link rel="icon" href="https://icons.iconarchive.com/icons/custo6/tests-icon.png" type="image/x-icon">
+</head>
+<body>
+    <h1>favicon</h1>
+    <p>A favicon short for "favorite icon" is a small,typically square or rectangle icon associated with a website.
+        it is displayed on various places such as the browser's address bar, bookmarks or favorites list, and tabs. 
+        </p>
+</body>
+</html>
